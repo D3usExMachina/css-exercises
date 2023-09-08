@@ -1,0 +1,12 @@
+.bottonMe,
+.bottonNo {
+    font-size: 28px;
+    font-family: Arial, "Time New Roman", sans-serif;
+}
+.bottonMe {
+    background-color: black;
+    color: white;
+}
+.bottonNo {
+    background-color: yellow;
+}
