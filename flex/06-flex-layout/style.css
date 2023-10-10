@@ -66,3 +66,8 @@ input {
   padding: 16px;
   background: #eee;
 }
+
+a {
+  color: grey;
+  text-decoration: none;
+}
